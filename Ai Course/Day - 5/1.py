@@ -1,0 +1,11 @@
+import date_func as df
+print(df.leap_year(2024))   
+print(df.day_of_week(4))
+print(df.weekend(7))
+print(df.month_name(2))
+print(df.days_per_month(5))
+print(df.age_calculate(2007))
+print(df.season(10))
+print(df.festival(1,1))
+print(df.greetings(2))
+print(df.ays_in_year(2026))
